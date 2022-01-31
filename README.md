@@ -1,9 +1,9 @@
 # majic
-##Cross Platform Image Conversion Script for JXL
+## Cross Platform Image Conversion Script for JXL
 
-## Dependancys
-Python
-  tdmq
-cjxl
-djxl
-webpinfo
+Dependencys
+* Python
+  - tdmq
+* cjxl
+* djxl
+* webpinfo
